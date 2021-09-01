@@ -4,7 +4,7 @@ title:      自动获取cloudflare的ip解决假墙
 subtitle:   cloudflare自动换IP脚本
 date:       2021-08-12
 author:     果果
-header-img: img/the-first.png
+header-img: img/post-bg-mma-1.jpg
 catalog: false
 tags:
 - 学习资料
