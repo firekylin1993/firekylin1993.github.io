@@ -15,7 +15,7 @@ M (thread)  G (goroutine)  P (Processor)。
 
 ![pg1](/img-post/202201/1.png "pg1")
 
-** GMP 模型**
+**GMP 模型**
 
 ![pg2](/img-post/202201/2.png "pg2")
 
