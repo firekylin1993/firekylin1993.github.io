@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      goland配置golangci-linter代码扫描
-subtitle:   go swagger
+subtitle:   golangci-linter
 date:       2022-02-12
 author:     果果
 header-img: img/post-bg-mma-6.jpg
