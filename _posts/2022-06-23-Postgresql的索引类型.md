@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Postgresql索引类型
-subtitle:   RAID
+subtitle:   PG索引初探
 date:       2022-06-23
 author:     果果
 header-img: img/post-bg-mma-5.jpg
