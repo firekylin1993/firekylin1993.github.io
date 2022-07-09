@@ -7,7 +7,7 @@ author:     果果
 header-img: img/post-bg-mma-5.jpg
 catalog: false
 tags:
-- Database
+- PG
 ---
 
 索引是增强数据库性能的利器，在检索某些特定行的时候效率会有很大提升，postgresql中索引类型丰富，每种索引有着不同的应用场景，下面简单介绍一下。
