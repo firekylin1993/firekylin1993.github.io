@@ -12,6 +12,8 @@ tags:
 
 最近看到同事在用github action帮忙生成镜像，所以闲来无事自己也简单的写了一个workflow，每一行的作用都写了注释，方便理解和记忆
 
+仓库地址：[docker-build](https://github.com/firekylin1993/docker-build)
+
 ```yaml
 # docker-image.yml
 name: Push Docker image   # workflow名称，可以在Github项目主页的【Actions】中看到所有的workflow
