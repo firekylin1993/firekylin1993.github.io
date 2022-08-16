@@ -14,6 +14,8 @@ tags:
 
 仓库地址：[docker-build](https://github.com/firekylin1993/docker-build)
 
+DOCKERHUB_USERNAME 和 DOCKERHUB_TOKEN 可以登陆dockerhub获取
+
 ```yaml
 # docker-image.yml
 name: Push Docker image   # workflow名称，可以在Github项目主页的【Actions】中看到所有的workflow
