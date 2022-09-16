@@ -208,6 +208,7 @@ len>=4096 BitmapContainer 使用 bitmap 存储
 5. 在联合查询时，在有 filter cache 的情况下，会直接利用位图的原生特性快速求交并集得到联合查询结果，否则使用 skip list 对多个 postings list 求交并集，跳过遍历成本并且节省部分数据的解压缩 cpu 成本
 
 **Elasticsearch 的索引思路**
+
 将磁盘里的东西尽量搬进内存，减少磁盘随机读取次数 (同时也利用磁盘顺序读特性)，结合各种压缩算法，用及其苛刻的态度使用内存。
 
 所以，对于使用 Elasticsearch 进行索引时需要注意:
