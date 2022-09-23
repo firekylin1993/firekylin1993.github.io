@@ -99,6 +99,6 @@ service-worker: true
 friends: [
   {
     title: "果的博客",
-    href: "https://tt.930718.xyz"
+    href: "https://blog.930718.xyz"
   }
 ]
