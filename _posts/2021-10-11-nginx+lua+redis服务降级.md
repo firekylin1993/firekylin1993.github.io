@@ -5,7 +5,7 @@ subtitle:   Lua
 date:       2021-10-11
 author:     果果
 header-img: img/post-bg-mma-3.jpg
-catalog: false
+catalog: true
 tags:
     - redis
     - lua

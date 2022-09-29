@@ -5,7 +5,7 @@ subtitle:   cloudflare自动换IP脚本
 date:       2021-08-12
 author:     果果
 header-img: img/post-bg-mma-1.jpg
-catalog: false
+catalog: true
 tags:
     - 资源
 ---

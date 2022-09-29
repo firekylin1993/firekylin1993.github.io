@@ -5,7 +5,7 @@ subtitle:   新年第一更
 date:       2022-01-10
 author:     果果
 header-img: img/post-bg-mma-3.jpg
-catalog: false
+catalog: true
 tags:
     - Golang
 ---

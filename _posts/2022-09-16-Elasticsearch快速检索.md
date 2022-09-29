@@ -5,7 +5,7 @@ subtitle:   倒排索引的秘密
 date:       2022-09-16
 author:     果果
 header-img: img/home-bg-art.jpg
-catalog: false
+catalog: true
 tags:
     - 数据结构和算法
     - es

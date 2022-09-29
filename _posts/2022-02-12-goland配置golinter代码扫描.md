@@ -5,7 +5,7 @@ subtitle:   golangci-linter
 date:       2022-02-12
 author:     果果
 header-img: img/post-bg-mma-6.jpg
-catalog: false
+catalog: true
 tags:
     - Golang
     - cicd

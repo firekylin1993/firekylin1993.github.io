@@ -5,7 +5,7 @@ subtitle:   docker compose
 date:       2022-09-29
 author:     果果
 header-img: img/home-bg-o.jpg
-catalog: false
+catalog: true
 tags:
     - docker
 ---

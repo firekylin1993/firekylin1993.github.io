@@ -5,7 +5,7 @@ subtitle:   github action
 date:       2022-08-15
 author:     果果
 header-img: img/post-bg-mma-5.jpg
-catalog: false
+catalog: true
 tags:
     - cicd
 ---
