@@ -7,7 +7,9 @@ author:     果果
 header-img: img/post-bg-mma-3.jpg
 catalog: false
 tags:
-- 学习资料
+    - redis
+    - lua
+    - nginx
 ---
 
 ## 1 引子

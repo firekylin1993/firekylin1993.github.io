@@ -7,7 +7,7 @@ author:     果果
 header-img: img/home-bg-o.jpg
 catalog: false
 tags:
-- DevOps
+    - docker
 ---
 
 # 命令说明

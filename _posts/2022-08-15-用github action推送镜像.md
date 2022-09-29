@@ -7,7 +7,7 @@ author:     果果
 header-img: img/post-bg-mma-5.jpg
 catalog: false
 tags:
-- CICD
+    - cicd
 ---
 
 最近看到同事在用github action帮忙生成镜像，所以闲来无事自己也简单的写了一个workflow，每一行的作用都写了注释，方便理解和记忆

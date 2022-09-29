@@ -7,7 +7,8 @@ author:     果果
 header-img: img/post-bg-mma-6.jpg
 catalog: false
 tags:
-- Golang
+    - Golang
+    - cicd
 ---
 
 
