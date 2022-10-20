@@ -235,6 +235,7 @@ docker-compose up [options] [SERVICE...]
 - --force-recreate 强制重新创建容器，不能与 --no-recreate 同时使用。
 - --no-recreate 如果容器已经存在了，则不重新创建，不能与 --force-recreate 同时使用。
 - --no-build 不自动构建缺失的服务镜像。
+- --build 在启动容器之前构建映像。
 - -t, --timeout TIMEOUT 停止容器时候的超时（默认为 10 秒）。
 
 ### version
