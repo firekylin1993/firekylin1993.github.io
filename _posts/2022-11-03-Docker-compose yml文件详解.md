@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Docker-compose.yml文件参数详解
+subtitle:   docker compose
+date:       2022-11-03
+author:     果果
+header-img: img/post-bg-mma-1.jpg
+catalog: true
+tags:
+    - docker
+    - DevOps
+---
+
 # Docker-compose.yml文件参数详解
 
   * [Compose和Docker兼容性](#compose%E5%92%8Cdocker%E5%85%BC%E5%AE%B9%E6%80%A7)
